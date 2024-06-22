@@ -1,0 +1,11 @@
+git init
+git add *
+git commit -m
+git push origin master
+git pull
+git clone
+git branch просмотр веток -b test переключиться и создать ветку
+git switch переключиться на ветку
+git checkout отменить последний коммит
+git log просмотр коммитов
+git switch <test> и git merge <test2>
