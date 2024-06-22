@@ -1,0 +1,15 @@
+PHP Intelephense
+PHP IntelliSense
+Prettier - Code formatter
+SFTP
+Simple React Snippets
+YAML
+eCSStractor for VSCode
+Figma for VS Code
+Git Graph
+Laravel Blade Snippets
+Laravel Extra Intellisense
+Laravel L5 Swagger Snippets
+Live Server
+OpenAPI (Swagger) Editor
+

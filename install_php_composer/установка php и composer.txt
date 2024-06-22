@@ -1,0 +1,19 @@
+выбрать версию и скачать архив .zip https://windows.php.net/download
+разархивировать содержимое в папку C:\\php\
+
+в файле php.ini-development раскоментить
+;extension_dir = "ext"
+
+в файле php.ini раскоментить
+;extension=fileinfo
+;extension=gd
+;extension=curl
+;extension=mbstring
+;extension=openssl
+
+
+ПОЛНАЯ ДОКУМЕНТАЦИЯ https://metanit.com/php/tutorial/1.2.php
+
+Установка композера https://getcomposer.org/download/
+и скачиваем файл Composer-Setup.exe
+указываем путь до папки php
