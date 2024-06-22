@@ -9,3 +9,4 @@ git switch переключиться на ветку
 git checkout отменить последний коммит
 git log просмотр коммитов
 git switch <test> и git merge <test2>
+git remote add origin https://<link>
